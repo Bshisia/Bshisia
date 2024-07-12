@@ -22,7 +22,7 @@ Welcome! I'm Brian, a full stack developer with expertise in Go (Golang), HTML, 
 
 ## Contact
 - **Email:** brian.developer@example.com
-- **LinkedIn:** [linkedin.com/in/brian-developer](https://www.linkedin.com/in/brian-developer)
-- **GitHub:** [github.com/brian-developer](https://github.com/brian-developer)
+- **LinkedIn:** [linkedin.com/in/brian](https://www.linkedin.com/in/brian)
+- **GitHub:** [github.com/Bshisia](https://github.com/Bshisia)
 
 Thanks for visiting!
