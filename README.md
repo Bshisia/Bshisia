@@ -1,4 +1,4 @@
-# Brian's Developer Portfolio
+# My Developer Portfolio
 
 Welcome! I'm Brian, a full stack developer with expertise in Go (Golang), HTML, CSS, Git, and Linux.
 
