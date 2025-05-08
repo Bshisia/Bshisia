@@ -43,7 +43,7 @@ Welcome! I'm Brian, a full-stack developer with expertise in Go (Golang), HTML, 
 - **Challenges Solved:** Optimized database queries for faster response times.
 
 ### 2. Portfolio Site
-- **Description:** Showcasing projects and skills, deployed on a Linux server.
+- **Description:** Showcasing projects and skills.
 - **Technologies:** HTML, CSS, Linux.
 - **Outcome:** Improved online brand presence with a responsive design.
 
