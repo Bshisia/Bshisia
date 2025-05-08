@@ -39,7 +39,7 @@ Welcome! I'm Brian, a full-stack developer with expertise in Go (Golang), HTML, 
 
 ### 1. Go Web App
 - **Description:** A web application featuring user authentication and dynamic content.
-- **Technologies:** Go, PostgreSQL, HTML/CSS.
+- **Technologies:** Go, SQLite, HTML/CSS.
 - **Challenges Solved:** Optimized database queries for faster response times.
 
 ### 2. Portfolio Site
