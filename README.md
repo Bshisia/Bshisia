@@ -31,7 +31,7 @@ Welcome! I'm Brian, a full-stack developer with expertise in Go (Golang), HTML, 
 
 ### Tools 🧰
 - **Git:** Version control and collaboration.
-- **Linux:** Development and server management.
+- **Linux:**
 
 ---
 
@@ -41,15 +41,11 @@ Welcome! I'm Brian, a full-stack developer with expertise in Go (Golang), HTML, 
 - **Description:** A web application featuring user authentication and dynamic content.
 - **Technologies:** Go, PostgreSQL, HTML/CSS.
 - **Challenges Solved:** Optimized database queries for faster response times.
-- **Screenshot:**
-![Go Web App Screenshot](https://via.placeholder.com/600x300?text=Go+Web+App)
 
 ### 2. Portfolio Site
 - **Description:** Showcasing projects and skills, deployed on a Linux server.
 - **Technologies:** HTML, CSS, Linux.
 - **Outcome:** Improved online brand presence with a responsive design.
-- **Screenshot:**
-![Portfolio Screenshot](https://via.placeholder.com/600x300?text=Portfolio+Site)
 
 ---
 
@@ -59,7 +55,7 @@ Contributions are welcome! Feel free to fork this repository, submit pull reques
 ---
 
 ## Contact 📬
-- **Email:** [brian.developer@example.com](mailto:brian.developer@example.com)
+- **Email:** [brian.developer@example.com](mailto:shisiabrian7@gmail.com)
 - **LinkedIn:** [linkedin.com/in/brian](https://www.linkedin.com/in/brian)
 - **GitHub:** [github.com/Bshisia](https://github.com/Bshisia)
 
