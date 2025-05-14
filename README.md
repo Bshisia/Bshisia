@@ -55,7 +55,7 @@ Contributions are welcome! Feel free to fork this repository, submit pull reques
 ---
 
 ## Contact 📬
-- **Email:** [brian.developer@example.com](mailto:shisiabrian7@gmail.com)
+- **Email:** [shisiabrian7@gmail.com](mailto:shisiabrian7@gmail.com)
 - **LinkedIn:** [linkedin.com/in/brian](https://www.linkedin.com/in/brian)
 - **GitHub:** [github.com/Bshisia](https://github.com/Bshisia)
 
