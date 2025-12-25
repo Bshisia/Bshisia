@@ -35,7 +35,7 @@ Currently working at **Zone01 Kisumu** building scalable web applications with m
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-shisiabrian7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shisiabrian7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/brian-shisia-217815304/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-shisia-217815304/)
 [![GitHub](https://img.shields.io/badge/GitHub-bshisia-181717?style=for-the-badge&logo=github)](https://github.com/bshisia)
 
 </div>
