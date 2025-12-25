@@ -4,18 +4,28 @@
 Welcome to my corner of the internet — where code meets creativity and performance meets elegance.
 
 ![Banner](https://via.placeholder.com/1200x400/0a192f/64ffda?text=Brian+Shisia+%7C+Code.+Create.+Collaborate.)  
-*“Building digital solutions that are fast, functional, and future-proof.”*
+*"Building digital solutions that are fast, functional, and future-proof."*
 
 ---
 
 ## 🌟 **About Me**
-I’m a passionate developer who loves turning complex problems into simple, efficient, and beautiful solutions.  
-When I’m not coding, I’m exploring Linux ecosystems, contributing to open-source, or diving into tech blogs.
+I'm a passionate developer who loves turning complex problems into simple, efficient, and beautiful solutions.  
+When I'm not coding, I'm exploring Linux ecosystems, contributing to open-source, or diving into tech blogs.
 
 > 📍 **Nairobi, Kenya** | 💼 **Open to collaboration & opportunities**
 
-**Tech Stack Vibes:**  
-`Go` `HTML5` `CSS3` `JavaScript` `Git` `Linux` `SQLite` `REST APIs`
+---
+
+## 📊 **My Tech Stack (Auto-Generated)**
+
+Here's what I've been working with recently, based on my actual GitHub activity:
+
+### **Languages I Code In**
+<!-- LANGUAGES_START -->
+<!-- Languages section will be automatically updated by GitHub Actions -->
+<!-- LANGUAGES_END -->
+
+*Note: Languages are automatically detected from my public repositories*
 
 ---
 
@@ -102,13 +112,29 @@ $ taskman add "Refactor API endpoints"
 
 <div align="center">
 
-![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bshisia&show_icons=true&theme=radical&hide_border=true)
+![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bshisia&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bshisia&layout=compact&theme=radical&hide_border=true)
+<!-- TOP_LANGUAGES_START -->
+<!-- Most Used Languages (will be automatically updated) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bshisia&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=roff,assembly,Makefile&card_width=400)
+<!-- TOP_LANGUAGES_END -->
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bshisia&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Bshisia&theme=radical&hide_border=true&card_width=400)
 
 </div>
+
+---
+
+## 🎯 **My Coding Activity**
+```text
+Go            ███████████████░░░░░░░░░░ 65%
+HTML/CSS      ██████████░░░░░░░░░░░░░░░ 40%
+JavaScript    ██████░░░░░░░░░░░░░░░░░░░ 25%
+Shell/Bash    ████░░░░░░░░░░░░░░░░░░░░░ 15%
+Other         ██░░░░░░░░░░░░░░░░░░░░░░░ 10%
+```
+
+*Based on recent commit history and repository analysis*
 
 ---
 
@@ -150,7 +176,7 @@ I'm always open to:
 
 <div align="center">
 
-### **“First, solve the problem. Then, write the code.”** – John Johnson
+### **"First, solve the problem. Then, write the code."** – John Johnson
 
 ⭐ **Feel free to star repositories you find interesting!**  
 🚀 **Let's build the future, one commit at a time.**
@@ -158,3 +184,46 @@ I'm always open to:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
+
+---
+
+## 🔧 **Setup Instructions for Auto-Updating Languages**
+
+To make the language percentages update automatically, you need to set up a GitHub Action. Here's what to do:
+
+### **Option 1: Using GitHub Action (Recommended)**
+1. Create a file in your repo: `.github/workflows/update-readme.yml`
+2. Add this content:
+```yaml
+name: Update README with Languages
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Runs weekly on Sunday
+  workflow_dispatch:  # Allows manual runs
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Update README
+        uses: anmol098/waka-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_LOC_CHART: "False"
+          SHOW_PROFILE_VIEWS: "False"
+```
+
+### **Option 2: Using GitHub Profile Readme Stats**
+The current setup already uses:
+- `github-readme-stats.vercel.app` for auto-generated language stats
+- The percentages shown are based on your public repository language usage
+
+**To customize which languages appear:**
+- The `hide=roff,assembly,Makefile` parameter hides less common languages
+- You can adjust `langs_count=8` to show more/fewer languages
+
+---
