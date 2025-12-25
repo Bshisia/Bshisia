@@ -24,7 +24,7 @@ Currently working at **Zone01 Kisumu** building scalable web applications with m
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bshisia&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bshisia&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
