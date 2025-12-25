@@ -1,10 +1,26 @@
 # Hi there, I'm Brian Shisia 👋
 
-Full-stack Software Developer with 3 years of experience specializing in Golang and JavaScript.
+Full-Stack Software Developer | Kisumu, Kenya
+
+Currently working at **Zone01 Kisumu** building scalable web applications with modern technologies. I specialize in JavaScript and Golang, with experience in creating responsive frontends and robust backend APIs.
 
 ---
 
-## 💻 Languages I Work With
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript • Golang • Python
+
+**Frontend:** React • Next.js • HTML • CSS • Tailwind CSS
+
+**Backend:** REST APIs • GraphQL • Gorilla Mux
+
+**Databases:** SQL • SQLite
+
+**Tools:** Git • GitHub
+
+---
+
+## 💻 Language Stats
 
 <div align="center">
 
@@ -14,8 +30,12 @@ Full-stack Software Developer with 3 years of experience specializing in Golang 
 
 ---
 
+## 📫 Connect With Me
+
 <div align="center">
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-bshisia-181717?style=for-the-badge&logo=github)](https://github.com/bshisia)
+[![Email](https://img.shields.io/badge/Email-shisiabrian7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shisiabrian7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-bshisia-181717?style=for-the-badge&logo=github)](https://github.com/bshisia)
 
 </div>
