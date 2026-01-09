@@ -37,14 +37,7 @@ Tools          Git • GitHub
 
 ---
 
-## 🚀 Featured Projects
 
-<!-- Add your top projects here -->
-- **Project 1** - Brief description with tech stack
-- **Project 2** - Brief description with tech stack
-- **Project 3** - Brief description with tech stack
-
----
 
 ## 📫 Connect With Me
 
