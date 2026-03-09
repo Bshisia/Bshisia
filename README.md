@@ -104,16 +104,6 @@ fun_fact: "Every great product starts with a single commit"
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-
-[![Brian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bshisia&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## What I'm Working On
 
 - Building **scalable full-stack applications** at Zone01 Kisumu
