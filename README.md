@@ -78,12 +78,7 @@ fun_fact: "Every great product starts with a single commit"
 
 ## GitHub Statistics
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bshisia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bshisia&theme=tokyonight&hide_border=true" />
-
-</div>
 
 <div align="center">
 
