@@ -113,10 +113,7 @@ fun_fact: "Every great product starts with a single commit"
 
 ---
 
-<div align="center">
 
-<!-- Snake animation — requires GitHub Actions workflow -->
-<img src="https://raw.githubusercontent.com/bshisia/bshisia/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <br/><br/>
 
