@@ -29,7 +29,7 @@
 ```yaml
 name: Brian Shisia
 location: Kisumu, Kenya
-current_role: Full-Stack Developer @ Zone01 Kisumu
+current_role: Full-Stack Developer
 focus:
   - Building scalable web applications
   - REST APIs & GraphQL services
