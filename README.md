@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Brian%20Shisia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Kisumu%2C%20Kenya&descAlignY=51&descAlign=50&descSize=16"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;JavaScript+%26+Golang+Specialist;Building+at+Zone01+Kisumu;Scalable+APIs+%7C+Modern+UIs+%7C+Clean+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;JavaScript+%26+Golang+Specialist;Founder+BuildMart;Scalable+APIs+%7C+Modern+UIs+%7C+Clean+Code)](https://git.io/typing-svg)
 
 <br/>
 
